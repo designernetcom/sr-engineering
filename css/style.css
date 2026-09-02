@@ -474,7 +474,8 @@ blockquote p {
 }
 /** Homepage 03 **/
 .ihbox-bg-three {
-  margin-top: -110px;
+  /* margin-top: -110px; */
+  padding-top: 60px;
 }
 .about-bg-three {
   background-image: url(../images/homepage-3/bg-01-new.jpg);
@@ -1234,7 +1235,7 @@ blockquote p {
 
 /** 04 - portfolio Detail **/
 .portfolio-style-1 {
-  padding: 130px 0px 40px 0px;
+  padding: 60px 0px 40px 0px;
 }
 .portfolio-single {
   padding: 80px 0;
@@ -2218,7 +2219,7 @@ figure.block-gallery {
 }
 .contact-form .contact-ihbox {
   background-color: var(--pbmit-blackish-color);
-  margin: 95px 0px 95px 15px;
+  margin: 0;
   --e-column-margin-right: 0px;
   --e-column-margin-left: 15px;
   padding: 70px 50px 70px 50px;
@@ -2230,7 +2231,7 @@ figure.block-gallery {
   background-image: url(../images/transparent-img-01.png);
   background-color: var(--pbmit-light-color);
   border-radius: 50px 0px 0px 0px;
-  padding: 200px 160px 200px 140px;
+  padding: 40px 160px 110px 140px;
   border-radius: 0px 0px 50px;
   background-position: 356px -110px;
   background-repeat: no-repeat;
@@ -2402,5 +2403,17 @@ textarea.form-control {
   }
 }
 .contact-details {
-  padding-bottom: 70px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+.banner {
+  background: #4864c8;
+  padding: 30px;
+}
+.banner h1 {
+  color: white;
+  text-align: center;
+}
+.banner_img img {
+  width: 100%;
 }
