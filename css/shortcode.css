@@ -1616,7 +1616,11 @@ a.btn-arrow span:after {
   transition: all ease 800ms;
   -moz-transition: all ease 800ms;
   -webkit-transition: all ease 800ms;
+<<<<<<< HEAD
   /* background-color: rgb(71 100 200 / 78%); */
+=======
+  background-color: rgb(71 100 200 / 78%);
+>>>>>>> 4ec8bf7070762a1add269f5a31b95860fe534e39
 }
 .pbmit-portfolio-style-1:hover .pbmit-portfolio-img-wrapper:after,
 .pbmit-portfolio-style-1:hover .pbminfotech-icon-box a {
